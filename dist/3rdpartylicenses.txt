@@ -1,4 +1,4 @@
-moment@2.18.1 MIT
+moment@2.19.1 MIT
 Copyright (c) JS Foundation and other contributors
 
 Permission is hereby granted, free of charge, to any person
@@ -23,8 +23,8 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 
-core-js@2.5.0 MIT
-Copyright (c) 2014-2016 Denis Pushkarev
+core-js@2.5.1 MIT
+Copyright (c) 2014-2017 Denis Pushkarev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -45,7 +45,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-zrender@3.6.0 BSD
+zrender@3.6.3 BSD
 BSD 3-Clause License
 
 Copyright (c) 2017, Baidu Inc.
@@ -146,13 +146,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/core@4.3.6 MIT
+@angular/core@4.4.6 MIT
 
-@angular/router@4.3.6 MIT
+@angular/router@4.4.6 MIT
 
-@angular/http@4.3.6 MIT
+@angular/http@4.4.6 MIT
 
-@angular/animations@4.3.6 MIT
+@angular/animations@4.4.6 MIT
 
 webpack@3.4.1 MIT
 Copyright JS Foundation and other contributors
@@ -177,9 +177,9 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-@angular/forms@4.3.6 MIT
+@angular/forms@4.4.6 MIT
 
-zone.js@0.8.17 MIT
+zone.js@0.8.18 MIT
 The MIT License
 
 Copyright (c) 2016 Google, Inc.
@@ -203,7 +203,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/platform-browser@4.3.6 MIT
+@angular/platform-browser@4.4.6 MIT
 
 @angular/cdk@2.0.0-beta.8 MIT
 The MIT License
@@ -229,7 +229,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/common@4.3.6 MIT
+@angular/common@4.4.6 MIT
 
 css-loader@0.28.7 MIT
 Copyright JS Foundation and other contributors
